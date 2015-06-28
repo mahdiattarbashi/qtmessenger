@@ -1,0 +1,1 @@
+This project is a messenger developed in C++ using Qt and libjingle frameworks
